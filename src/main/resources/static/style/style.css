@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@import url('style_Reset.css');
+
+h1 {	color: #08f; text-align: center; margin: 20px 0;	}
+
+input {	font-size: 18px;	padding: 4px 12px;
+					margin: 6px 0px;	}
+input[type=text] {	transform: translateX(-30px); }
+div#wrap {	width: 380px; font-size: 20px; 	}
+
+div#btnArea {	text-align: center;	margin: 10px; }
+button {	font-size: 16px; font-weight: bold;	padding: 8px 20px;	}
+button:hover {	 cursor: pointer;	}				
+
+
+span {	width: 140px; display: inline-block;	transform: translateY(10px); }
